@@ -178,9 +178,9 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 
 ## Single Topic Posts
 - [Clojure Destructuring](http://blog.jayfields.com/2010/07/clojure-destructuring.html)  - Jay Fields
-- http://adambard.com/blog/greatest-clojure-hits/
 
 ## Meta-lists
+- [Top Clojure Articles article](http://adambard.com/blog/greatest-clojure-hits/)
 - [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
 - [Learn Clojure](http://learn-clojure.com/) 
 
@@ -198,3 +198,10 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 - there needs to be a resource to help solve [command line bullshittery](http://pgbovine.net/command-line-bullshittery.htm) 
 - Emacs [C-x M-c M-](https://i2.wp.com/imgs.xkcd.com/comics/real_programmers.png?resize=740%2C406) [16-fingers](http://fc04.deviantart.net/fs71/i/2011/029/8/3/emacs_user_at_work_by_earlcolour-d38aj2x.jpg) bullshittery
 - Doubt about the usefulness of LISP (stereotype about it being a dead language used only [for AI](https://image.slidesharecdn.com/clojure-110806031926-phpapp01/95/clojure-7-728.jpg)) I think this is totally dated - the grad students and other younger people I work with know nothing about this. Put another way, it's irrelvant.
+
+## Boston Clojure Group Resources
+- [Boston Clojure Group Meetup](http://www.meetup.com/Boston-Clojure-Group/) - Usually the 3rd Thursday of every month at Akamai, Kendall Sq.
+- [Boston Clojure Group Google Group](https://groups.google.com/forum/#!forum/boston-clojure)
+- [Boston Clojure Group Github](https://github.com/boston-clojure)
+- Boston Clojure Group Hashtag: #bosclj
+
