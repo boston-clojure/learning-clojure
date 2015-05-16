@@ -125,11 +125,11 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 ## Editors and IDEs
 - Emacs ([cider](https://github.com/clojure-emacs/cider) , company-mode, auto-complete, [smartparens](https://github.com/Fuco1/smartparens) ) (spacemacs?) Aquamacs!
 - Vim ([fireplace](https://github.com/tpope/vim-fireplace), [vim-leiningen](https://github.com/tpope/vim-leiningen), paredit, [rainbow-parentheses](https://github.com/eapache/rainbow_parentheses.vim))
-- IntelliJ (Cursive)
-- Eclipse (Counterclockwise)
-- Light Table
+- IntelliJ ([Cursive](https://cursiveclojure.com/))
+- Eclipse ([Counterclockwise](http://doc.ccw-ide.org/documentation.html))
+- [Light Table](http://lighttable.com/)
 - [Sublime Text](https://sublimetext.com/) (+ [paredit](https://github.com/odyssomay/paredit) & [lisp-indent](https://github.com/odyssomay/sublime-lispindent))
-- Textmate
+- [Textmate](https://macromates.com/)
 - [Atom](https://atom.io/) - clojure mode, paredit, nrepl-eval, emacs bindings
 
 ## Testing
