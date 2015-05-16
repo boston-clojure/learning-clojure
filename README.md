@@ -17,16 +17,15 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
   - Get a Clojure mentor (how?)
 
 ### Advanced
-- clojure.test, test.check
 - Build a website with some web framework (ring, compojure, pedestal, etc)
 - Give a talk on your local Clojure Group meetup
 - Online videos (see list below)
   - Conferences
-  - Clojure/conj
-  - Clojure/west
-  - EuroClojure
-  - StrangeLoop
-  - Poly Conf
+  - [Clojure/conj](http://clojure-conj.org/)
+  - [Clojure/west](http://clojurewest.org/)
+  - [EuroClojure](http://euroclojure.org/)
+  - [StrangeLoop](https://thestrangeloop.com/)
+  - [Poly Conf](http://polyconf.com/)
 
 ### Expert
 
@@ -37,23 +36,15 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
   - [Github search on open clojure(script) issues with label 'helpwanted'](https://github.com/search?l=&amp;q=extension%3Aclj+extension%3Acljs+label%3Ahelpwanted&amp;ref=advsearch&amp;type=Issues&amp;utf8=%E2%9C%93)
   - [Github search on open clojure(script) issues with label 'newbie'](https://github.com/search?utf8=%E2%9C%93&amp;q=extension%3Aclj+extension%3Acljs+label%3Anewbie&amp;type=Issues&amp;ref=searchresults)
   - Take part in https://clojurecup.com/
-  - Work at a Clojure shop (TODO paste in Boston list)
+  - Work at a [Clojure shop](http://clojure.org/companies) (TODO paste in Boston list)
   - Mentor someone to become Clojure programmer
 
 ### Teacher's Notes
 - Consider not mentioning the L-word.
 - Clojure's contempt for the comma is inspirational.
 - Begin with the value syntax leaving symbols and lists for last.
-- Tell them Clojure values are like Java String if they know Java.
-- Bring stickers.
-
-### Categories
-- Lisp Philosophy
-- Clojure(Script)
-- Clojure Internals(?)
-- Concurrency
-- Immutability(?)
-- FP-vs-OOP(?)
+- Tell them Clojure values are immutable like Java String if they know Java.
+- Bring [stickers](http://www.zazzle.com/clojure_stickers_1_5_sheet_of_20-217379761338416613).
 
 ## Books
 ### Beginner Books 
@@ -126,9 +117,10 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 - http://clojure-doc.org
 
 ## Build / Dependency Tools
-- Leiningen
-- Boot
-- Maven
+- [Leiningen](http://leiningen.org/)
+- [Boot](http://boot-clj.com/)
+- [Maven](https://maven.apache.org/)
+- [Clojars](https://clojars.org/)
 
 ## Editors and IDEs
 - Emacs ([cider](https://github.com/clojure-emacs/cider) , company-mode, auto-complete, [smartparens](https://github.com/Fuco1/smartparens) ) (spacemacs?) Aquamacs!
@@ -141,9 +133,9 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 - [Atom](https://atom.io/) - clojure mode, paredit, nrepl-eval, emacs bindings
 
 ## Testing
-- midje
-- clojure.test
-- test.check
+- [midje](https://github.com/marick/Midje)
+- [clojure.test](http://blog.jayfields.com/2010/08/clojuretest-introduction.html)
+- [test.check](https://github.com/clojure/test.check)
 
 ## ClojureScript
 - [figwheel](https://github.com/bhauman/lein-figwheel) - lein plugin to enable livereload experience (blogpost with demo)
