@@ -7,15 +7,17 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 - Environment Setup: Java, Leiningen, IDE (optional) or use [Try Clojure](http://tryclj.com/)
 - [Koans](http://clojurekoans.com/) to get a taste of Clojure (low barrier of entry, can try in small chunks, free)
 - Setup your favorite text editor for a Clojure dev workflow, particularly including the inline help functionality
-- Book, one of:
-  - (easy) Clojure for the brave and true 
+- Book or tutorial, one of:
+  - (easy) Clojure for the brave and true (online tutorial)
+  - (easy) Living Clojure
   - (mid) Clojure Programming
-  - Easy 4clojure problems
+- Do
+  - Easy [4clojure problems](https://www.4clojure.com/problems) or clojure katas
   - Come to the Boston Clojure Group (or local one)
-  - Get a Clojure mentor  (how?)
+  - Get a Clojure mentor (how?)
 
 ### Advanced
-- clojure.test
+- clojure.test, test.check
 - Build a website with some web framework (ring, compojure, pedestal, etc)
 - Give a talk on your local Clojure Group meetup
 - Online videos (see list below)
@@ -29,8 +31,8 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 ### Expert
 
 - Contributing to open source projects
-  - LightTable
-  - Incanter  
+  - [LightTable](https://github.com/LightTable)
+  - [Incanter](https://github.com/incanter/incanter)
   - how about a list of easier projects people can contribute to?
   - [Github search on open clojure(script) issues with label 'helpwanted'](https://github.com/search?l=&amp;q=extension%3Aclj+extension%3Acljs+label%3Ahelpwanted&amp;ref=advsearch&amp;type=Issues&amp;utf8=%E2%9C%93)
   - [Github search on open clojure(script) issues with label 'newbie'](https://github.com/search?utf8=%E2%9C%93&amp;q=extension%3Aclj+extension%3Acljs+label%3Anewbie&amp;type=Issues&amp;ref=searchresults)
@@ -168,10 +170,10 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 - [Better Living Through Clojure](https://docs.google.com/presentation/d/1y8TJECz9b1n_gTgeL2qdXWXThkiPnZ1gXGozfkPsWcY/edit#slide=id.p)  - MIT IAP 2015 Presentation
 
 ## Clojure Online Forums / Sites / Newsletters
-- Clojure IRC Channel
-- ClojureScript IRC Channel
+- Clojure IRC Channel #clojure [log](http://clojure-log.n01se.net/)
+- ClojureScript IRC Channel #clojurescript [logs](http://logs.lazybot.org/irc.freenode.net/%23clojurescript)
 - [Clojure Google Group](https://groups.google.com/forum/#!forum/clojure)
-- ClojureScript Google Group
+- [ClojureScript Google Group](https://groups.google.com/forum/#!forum/clojurescript)
 - [Clojure Users](https://www.linkedin.com/groups?home=&gid=1058217) on LinkedIn
 - [Clojure Subreddit](http://www.reddit.com/r/clojure) 
 - Clojure Gazette - Newsletter by Eric Normand
