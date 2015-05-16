@@ -170,9 +170,9 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 ## Clojure Online Forums / Sites / Newsletters
 - Clojure IRC Channel
 - ClojureScript IRC Channel
-- Clojure Google Group
+- [Clojure Google Group](https://groups.google.com/forum/#!forum/clojure)
 - ClojureScript Google Group
-- Clojure on LinkedIn
+- [Clojure Users](https://www.linkedin.com/groups?home=&gid=1058217) on LinkedIn
 - [Clojure Subreddit](http://www.reddit.com/r/clojure) 
 - Clojure Gazette - Newsletter by Eric Normand
 
