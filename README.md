@@ -121,6 +121,7 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 - [Boot](http://boot-clj.com/)
 - [Maven](https://maven.apache.org/)
 - [Clojars](https://clojars.org/)
+- [cljsjs](http://cljsjs.github.io/)
 
 ## Editors and IDEs
 - Emacs ([cider](https://github.com/clojure-emacs/cider) , company-mode, auto-complete, [smartparens](https://github.com/Fuco1/smartparens) ) (spacemacs?) Aquamacs!
