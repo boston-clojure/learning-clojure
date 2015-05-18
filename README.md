@@ -86,6 +86,8 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 - [Implementation details of core.async Channels](https://vimeo.com/100518968) - Rich Hickey
 - [Designing Front End Applications with core.async](http://go.cognitect.com/core_async_webinar_recording) - David Nolen
 - [Inside Transducers](https://www.youtube.com/watch?v=4KqUvG8HPYo) - Rich Hickey
+- [#Clojure](https://www.youtube.com/playlist?list=PLNJGW63UO7bpKNU1_fpxaQWOgyO_Ubn3l)
+- [ClojureTV](https://www.youtube.com/user/ClojureTV/playlists)
 
 ## Libraries
 - [Clojure Werkz](http://clojurewerkz.org/)
