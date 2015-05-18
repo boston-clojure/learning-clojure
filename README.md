@@ -178,6 +178,7 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 - [Top Clojure Articles article](http://adambard.com/blog/greatest-clojure-hits/)
 - [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
 - [Learn Clojure](http://learn-clojure.com/) 
+- [Clojure stuff](https://github.com/mindreframer/clojure-stuff) by @mindreframer
 
 ## Cheatsheets
 - [ClojureScript](- http://cljs.info/cheatsheet/)
