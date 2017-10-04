@@ -4,6 +4,7 @@ Resources and suggestions from the Boston Clojure Group for how to learn Clojure
 ## Curriculum
 
 ### Beginner
+- [Clojurecademy](https://clojurecademy.com) is an interactive platform that teaches Clojure, it's like Codecademy for Clojure
 - Environment Setup: Java, Leiningen, IDE (optional) or use [Try Clojure](http://tryclj.com/)
 - [Koans](http://clojurekoans.com/) to get a taste of Clojure (low barrier of entry, can try in small chunks, free)
 - Setup your favorite text editor for a Clojure dev workflow, particularly including the inline help functionality
